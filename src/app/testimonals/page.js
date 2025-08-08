@@ -35,7 +35,7 @@ export default function testimonial() {
                 <div className="text-center mb-16">
                     <h2 className="text-4xl font-bold text-white mb-4">Success Stories</h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-                        Join thousands of engineers who've transformed their careers
+                        Join thousands of engineers who&apos;ve transformed their careers
                     </p>
                 </div>
 
@@ -80,7 +80,7 @@ export default function testimonial() {
                                     </div>
                                 </div>
 
-                                <p className="text-gray-300 mb-6 italic">"{testimonial.testimonial}"</p>
+                                <p className="text-gray-300 mb-6 italic">{testimonial.testimonial}</p>
 
                                 <div className="flex items-center justify-between">
                                     <div className="flex gap-1">

@@ -114,7 +114,7 @@ export default function SystemDesignLesson() {
                             </h1>
 
                             <p className="text-xl text-gray-300 max-w-3xl mb-8">
-                                System design is the process of defining the architecture, components, and interfaces of a system to satisfy specified requirements. Learn the fundamentals that power the world's largest applications.
+                                System design is the process of defining the architecture, components, and interfaces of a system to satisfy specified requirements. Learn the fundamentals that power the world&apos;s largest applications.
                             </p>
 
                             {/* Progress Bar */}
@@ -209,7 +209,7 @@ export default function SystemDesignLesson() {
                                         </p>
                                         <div className="bg-gradient-to-r from-blue-500/10 to-cyan-500/10 rounded-xl p-6 border border-blue-500/20">
                                             <p className="text-blue-300 font-medium">
-                                                Key Insight: System design is not just about technology - it's about understanding business requirements and making informed trade-offs between competing concerns.
+                                                Key Insight: System design is not just about technology - it&apos;s about understanding business requirements and making informed trade-offs between competing concerns.
                                             </p>
                                         </div>
                                     </div>
@@ -444,7 +444,7 @@ export default function SystemDesignLesson() {
                         <div className="bg-gradient-to-r from-blue-500/10 to-cyan-500/10 backdrop-blur-sm rounded-3xl p-12 border border-blue-500/20">
                             <h3 className="text-3xl font-bold text-white mb-6">Ready for the Next Lesson?</h3>
                             <p className="text-gray-300 text-xl mb-8 max-w-2xl mx-auto">
-                                Now that you understand what system design is, let's dive into scalability fundamentals and learn how systems handle millions of users.
+                                Now that you understand what system design is, let&apos;s dive into scalability fundamentals and learn how systems handle millions of users.
                             </p>
                             <div className="flex flex-col sm:flex-row gap-6 justify-center">
                                 <button className="px-8 py-4 bg-gradient-to-r from-blue-500 to-cyan-500 text-white rounded-xl font-semibold hover:from-blue-600 hover:to-cyan-600 transition-all transform hover:scale-105 shadow-lg text-lg flex items-center space-x-3">

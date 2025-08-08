@@ -735,7 +735,7 @@ export default function SystemDesignPlatform() {
                 </span>
               </h2>
               <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-                Join 50,000+ engineers who've accelerated their careers with our proven methodology.
+                Join 50,000+ engineers who&apos;ve accelerated their careers with our proven methodology.
                 Start your journey today with our comprehensive system design mastery program.
               </p>
             </div>

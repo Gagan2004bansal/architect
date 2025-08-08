@@ -352,7 +352,7 @@ export default function Curriculum() {
             <div className="bg-gradient-to-r from-blue-500/10 to-cyan-500/10 backdrop-blur-sm rounded-3xl p-12 border border-blue-500/20">
               <h3 className="text-3xl font-bold text-white mb-6">Ready to Start Your Journey?</h3>
               <p className="text-gray-300 text-xl mb-8 max-w-2xl mx-auto">
-                Join thousands of developers who've mastered system design with our structured curriculum.
+                Join thousands of developers who&apos;ve mastered system design with our structured curriculum.
                 Start with fundamentals and build your way up to advanced distributed systems.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
